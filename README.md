@@ -21,11 +21,7 @@ Building seamless web experiences by day, cracking algorithms by night. </h3>
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitt-pandey&show_icons=true&locale=en&layout=compact" alt="rohitt-pandey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitt-pandey&show_icons=true&locale=en" alt="rohitt-pandey" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitt-pandey&" alt="rohitt-pandey" /></p>
 
 
 
