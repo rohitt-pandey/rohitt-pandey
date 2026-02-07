@@ -27,10 +27,8 @@ Hello there! I'm ROHIT RAJ, a passionate developer based in INDIA. My journey in
 ## ⚡ Quick Stats Overview
 
 <div align="center">
-    <img src="https://img.shields.io/github/followers/rohitt-pandey?style=for-the-badge&color=28a745&label=Followers"/>
-    <img src="https://img.shields.io/github/stars/rohitt-pandey?style=for-the-badge&color=FFD700&label=Total%20Stars"/>
-    <img src="https://img.shields.io/github/issues/rohitt-pandey?style=for-the-badge&color=007ACC&label=Issues"/>
-    <img src="https://img.shields.io/github/last-commit/rohitt-pandey/rohitt-pandey?style=for-the-badge&color=blueviolet&label=Last%20Commit"/>
+   
+  <img src="https://img.shields.io/github/last-commit/rohitt-pandey/rohitt-pandey?style=for-the-badge&color=blueviolet&label=Last%20Commit"/>
 </div>
 
 ## 🛠️ My Technology Ecosystem
