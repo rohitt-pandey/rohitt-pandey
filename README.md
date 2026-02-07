@@ -4,36 +4,6 @@
 const profile = {
   name: "Rohit Raj",
   bio: "Developer by passion",
-  skills: [
-    "React",
-    "HTML5",
-    "CSS3",
-    "Vue.js",
-    "Tailwind",
-    "Next.js",
-    "Bootstrap",
-    "Sass",
-    "Node.js",
-    "Django",
-    "SQLite",
-    "PostgreSQL",
-    "Docker",
-    "C++",
-    "Python",
-    "TypeScript",
-    "JavaScript"
-  ],
-}
-```
-
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'rohitt-pandey' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/rohitt-pandey/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
 ## 💻 Tech Stack
 
 ```json
@@ -65,6 +35,16 @@ const profile = {
   ]
 }
 ```
+  
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'rohitt-pandey' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/rohitt-pandey/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
+
+
 
 ## 🌐 Socials
 
