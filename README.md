@@ -71,19 +71,6 @@ As a passionate developer, I'm constantly exploring and expanding my toolkit. He
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <!-- TODO: Add your databases -->
 
-## 📈 My GitHub Analytics
-
-Showcasing my journey and activity on GitHub:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitt-pandey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitt-pandey&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitt-pandey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
 
 
 
