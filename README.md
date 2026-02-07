@@ -1,4 +1,4 @@
-# 👨‍💻 ROHIT RAJ | Developer by Passion
+# 👨‍💻 ROHIT RAJ 
 ### 🚀 Crafting digital experiences, one line of code at a time
 
 ---
