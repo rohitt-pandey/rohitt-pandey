@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://yuna0x0.com">
+  <a href="https://github.com/rohitt-pandey">
     <img src="https://avatars.githubusercontent.com/u/182739904?s=400&u=e92d7585096ca32866d323742bec1459b9a4c925&v=4" alt="Banner" width="50%">
   </a>
 </p>
@@ -7,7 +7,6 @@
 <h1 align="center">hi, i'm <a href="https://avatars.githubusercontent.com/u/182739904?s=400&u=e92d7585096ca32866d323742bec1459b9a4c925&v=4"> ROhitNull !!!</a>!</h1>
 <p align="center">
   <a href="https://github.com/rohitt-pandey">
-    <img src="https://avatars.githubusercontent.com/u/182739904?s=400&u=e92d7585096ca32866d323742bec1459b9a4c925&v=4" alt="Rohitt">
   </a>
 </p>
 <h3 align="center">welcome to my profile :3</h3>
@@ -16,9 +15,7 @@
 
 <p align="center">
   <strong><a href="https://rohitrajsde.netlify.app/">Website</a></strong> |
-
   <strong><a href="https://discord.gg/rohittpandey">Discord</a></strong> |
- 
 </p>
 
 
