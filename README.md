@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/rohitt-pandey">
-    <img src="https://avatars.githubusercontent.com/u/182739904?s=400&u=e92d7585096ca32866d323742bec1459b9a4c925&v=4" alt="Banner" width="50%">
+
   </a>
 </p>
 
